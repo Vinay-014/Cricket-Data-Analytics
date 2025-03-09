@@ -1,9 +1,9 @@
 # Cricket Data Analytics
 
-Welcome to **Cricket Data Analytics**, a project focused on analyzing cricket match data to uncover insights about player performance, team strategies, and match outcomes. This repository leverages Python and data science tools to process, analyze, and visualize cricket datasets, providing actionable insights for enthusiasts, analysts, and teams.
+The project is focused on analyzing cricket match data to uncover insights about player performance, team strategies, and match outcomes. This repository leverages Python and data science tools to process, analyze, and visualize cricket datasets, providing actionable insights for enthusiasts, analysts, and teams.
 
 ## Project Overview
-This project explores cricket data (e.g., IPL or T20 World Cup stats) to answer questions like:
+This project explores T20 World Cup cricket stats data to answer questions like:
 - Which players consistently perform under pressure?
 - What factors contribute to a team’s victory?
 - How do batting/bowling stats vary across conditions?
